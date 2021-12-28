@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>DnsSwitch</id>
+    <version>1.0.0</version>
+    <authors>DnsSwitch</authors>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <contentFiles>
+      <files include="any/net5.0/app.config" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\obj\DotnetToolSettings.xml" target="tools\net5.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\DnsSwitch.dll" target="tools\net5.0\any\DnsSwitch.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\DnsSwitch.deps.json" target="tools\net5.0\any\DnsSwitch.deps.json" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\DnsSwitch.runtimeconfig.json" target="tools\net5.0\any\DnsSwitch.runtimeconfig.json" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\DnsSwitch.dll.config" target="tools\net5.0\any\DnsSwitch.dll.config" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\DnsSwitch.pdb" target="tools\net5.0\any\DnsSwitch.pdb" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\Microsoft.Win32.SystemEvents.dll" target="tools\net5.0\any\Microsoft.Win32.SystemEvents.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.CodeDom.dll" target="tools\net5.0\any\System.CodeDom.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Configuration.ConfigurationManager.dll" target="tools\net5.0\any\System.Configuration.ConfigurationManager.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Drawing.Common.dll" target="tools\net5.0\any\System.Drawing.Common.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Management.dll" target="tools\net5.0\any\System.Management.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Security.AccessControl.dll" target="tools\net5.0\any\System.Security.AccessControl.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Security.Cryptography.ProtectedData.dll" target="tools\net5.0\any\System.Security.Cryptography.ProtectedData.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Security.Permissions.dll" target="tools\net5.0\any\System.Security.Permissions.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\System.Windows.Extensions.dll" target="tools\net5.0\any\System.Windows.Extensions.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll" target="tools\net5.0\any\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll" target="tools\net5.0\any\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp3.1\System.Management.dll" target="tools\net5.0\any\runtimes\win\lib\netcoreapp3.1\System.Management.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll" target="tools\net5.0\any\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll" target="tools\net5.0\any\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll" target="tools\net5.0\any\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\bin\Debug\net5.0\publish\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll" target="tools\net5.0\any\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\app.config" target="content\app.config" />
+    <file src="C:\Users\Will\Desktop\Will Docs\Things I wrote\DnsSwitch\DnsSwitch\app.config" target="contentFiles\any\net5.0\app.config" />
+  </files>
+</package>
